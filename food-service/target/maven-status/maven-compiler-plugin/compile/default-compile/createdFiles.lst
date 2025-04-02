@@ -1,0 +1,7 @@
+com\ust\demo\entity\Food.class
+com\ust\demo\controller\FoodController.class
+com\ust\demo\exceptions\FoodAlreadyFoundException.class
+com\ust\demo\repository\FoodRepository.class
+com\ust\demo\exception\FoodNotFoundException.class
+com\ust\demo\service\FoodService.class
+com\ust\demo\FoodServiceApplication.class
